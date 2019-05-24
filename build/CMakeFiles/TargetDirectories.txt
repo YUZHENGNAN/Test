@@ -1,0 +1,3 @@
+/home/yuzhengnan/works/git_test/Test/build/CMakeFiles/edit_cache.dir
+/home/yuzhengnan/works/git_test/Test/build/CMakeFiles/rebuild_cache.dir
+/home/yuzhengnan/works/git_test/Test/build/CMakeFiles/test.dir

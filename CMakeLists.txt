@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project(test)
+find_package(OpenCV REQUIRED)
+set (CMAKE_CXX_FLAGS "-std=c++11")
+add_executable(test main.cc)
+target_link_libraries(test ${OpenCV_LIBS})
